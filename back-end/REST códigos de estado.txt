@@ -1,0 +1,19 @@
+REST
+
+Códigos de estado
+
+1xx informativas 
+
+2xx sucesso
+
+3xx redirecionamento
+
+4xx erro no cliente
+
+5xx erro no servidor
+
+100 continuar
+200 sucesso
+301 movido
+400 requisição inválida
+500 erro interno servidor

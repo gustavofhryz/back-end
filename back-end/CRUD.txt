@@ -1,0 +1,23 @@
+Create PHP = Insert SQL = Post APIs
+
+Read PHP = Select SQL = GET APIs
+
+Update PHP = Update SQL = Put / Patch APIs
+
+Delete PHP = Delete SQL
+
+
+Exemplo prático
+
+Pense em um aplicativo de agenda de contatos:
+• Create: Você digita um novo nome e número e salva na agenda.
+• Read: Você abre a lista e visualiza os contatos salvos.
+• Update: Você altera o número de telefone de um amigo que mudou de celular.
+• Delete: Você apaga um contato antigo que não usa mais.
+
+Onde é utilizado?
+
+O conceito é universal e aparece em praticamente todos os sistemas digitais modernos:
+• Redes sociais (criar um post, ver o feed, editar legenda, apagar foto).
+• E-commerce (cadastrar produto, consultar catálogo, alterar preço, descontinuar item).
+• Sistemas bancários (abrir conta, extrato, alterar endereço, encerrar conta)

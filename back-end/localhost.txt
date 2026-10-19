@@ -1,0 +1,5 @@
+http://localhost/projects
+
+xamp server (php,sql,etc.)
+
+http://localhost/(foldername)/

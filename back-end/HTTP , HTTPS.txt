@@ -1,0 +1,4 @@
+HTTP vs. HTTPS
+
+• HTTP: Transmite dados em texto simples (sem criptografia), ficando vulnerável a interceptações.
+• HTTPS: É a versão segura que utiliza criptografia TLS/SSL para proteger a comunicação entre cliente e servidor.

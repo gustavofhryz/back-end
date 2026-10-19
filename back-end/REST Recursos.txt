@@ -1,0 +1,14 @@
+REST
+
+Recursos
+
+GET - Obtém um recurso
+POST - Cria um recurso
+PUT - Atualiza um recurso
+DELETE - Deleta um recurso
+
+REST HTTP
+Fornecer um conjunto de respostas
+
+Servidor Deve Processar Requisições
+
